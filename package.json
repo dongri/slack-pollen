@@ -1,0 +1,12 @@
+{
+  "name": "slack-pollen",
+  "version": "0.0.1",
+  "author": "Dongri Jin",
+  "private": true,
+  "dependencies": {
+    "botkit": "0.0.5",
+    "request": "2.69.0",
+    "botkit-storage-redis": "1.0.1",
+    "cheerio": "0.20.0"
+  }
+}
